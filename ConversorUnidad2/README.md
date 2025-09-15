@@ -2,11 +2,11 @@
 
 Este proyecto corresponde a la **Unidad 2, Actividad 9** de la asignatura **Estructuras de Datos**.
 
-## 📌 Descripción
+## Descripción
 El programa convierte un número en base 10 a sus representaciones en base 2, 8 y 16.  
 Luego aplica algoritmos de ordenamiento y búsqueda sobre los dígitos obtenidos en la conversión binaria.
 
-## 🚀 Algoritmos implementados
+## Algoritmos implementados
 - **Ordenamiento**:
   - Burbuja
   - Inserción
@@ -17,7 +17,7 @@ Luego aplica algoritmos de ordenamiento y búsqueda sobre los dígitos obtenidos
   - Binaria propia
   - Arrays.binarySearch() (Java nativo)
 
-## ▶️ Ejecución
+## Ejecución
 Compilar:
 ```bash
 javac src/ConversorBaseNumerica.java
@@ -28,6 +28,6 @@ Ejecutar:
 java -cp src ConversorBaseNumerica
 ```
 
-## 👤 Autor
+## Autor
 - Israel Fuentes
 - Universidad de Cartagena – Ingeniería de Software
